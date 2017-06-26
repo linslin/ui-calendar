@@ -1,5 +1,5 @@
 {
-  "name": "angular-ui-calendar",
+  "name": "angular-ui-calendar-linslin",
   "version": "1.0.2",
   "description": "A complete AngularJS directive for the Arshaw FullCalendar.",
   "author": "https://github.com/angular-ui/ui-calendar/graphs/contributors",
@@ -16,7 +16,7 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": ">=1.4.x",
+    "angular": ">=1.4.0",
     "jquery": "~3.1.1",
     "fullcalendar": "~2.9.1",
     "moment": ">=2.5.0"
